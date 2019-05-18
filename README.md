@@ -1,3 +1,3 @@
 # Handmovement-sensor
-Watch the video 'VID-20160508-WA0004.mp4' to get a overview of the project.
+[!demo](https://github.com/srinithish/Handmovement-sensor/blob/master/Robotic%20Hand.gif)
 Majorly developed in Arduino (C)
